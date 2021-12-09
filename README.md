@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XarisGeorgiadis
 - 👀 I’m interested in artificial intelligence, machine learning, video game development and audio engineering.
-- 🌱 I’m currently studying Computer Science at Aristotle University of Thessaloniki
+- 🌱 I’m currently studying Computer Science at the Aristotle University of Thessaloniki
 - 📫 How to reach me @linkedin: www.linkedin.com/in/charalampos-d-georgiadis
 
 <!---
